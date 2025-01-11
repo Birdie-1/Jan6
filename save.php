@@ -5,7 +5,7 @@ if ($_POST) {
     $birthday = $_POST['birthday'];
     $sex = $_POST['sex'];
     $username = $_POST['username'];
-    $pwd = $_POST['pwd'];
+    $pwd = $_POST['password'];
 
 
     echo "Hello Mr. $name $surname<br>";
